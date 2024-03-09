@@ -9,7 +9,10 @@ int main()
    cin >> N >> M;
 
    if (N <= 0 || N >= 10 || M < 1 || M > 10) {
-      cout <<
+      cout << "Invalid input range. Please enter valid values." << endl;
+      return 1;
    }
+
+   int result = 1;
   
 }
