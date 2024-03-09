@@ -14,5 +14,8 @@ int main()
    }
 
    int result = 1;
-  
+   cout << "N to the power number: ";
+   for (int i = 0; i <= M; ++i) {
+      
+   }
 }
