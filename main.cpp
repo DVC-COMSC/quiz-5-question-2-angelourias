@@ -19,4 +19,7 @@ int main()
       cout << result << ", ";
       result *= N;
    }
+   cout << endl:
+   
+   return 0;
 }
